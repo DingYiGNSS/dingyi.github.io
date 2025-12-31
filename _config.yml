@@ -14,7 +14,7 @@ name                     : &name "Ding Yi"
 description              : &description "Ph.D., Postdoctoral Fellow in GNSS and Multisensor Navigation"
 url                      : https://dingyignss.github.io/dingyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://dingyignss.github.io"
+repository               : "https://dingyignss.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,15 +24,10 @@ author:
   avatar           : "profile_DY.jpg"
   name             : "Ding Yi"
   #pronouns         : "Dr"  
-  bio              : "Ding Yi received the bachelor’s degree in geomatics
-                      engineering from Wuhan University, Wuhan, China,
-                      in 2016, the M.Sc. degree in geomatics engineering
-                      from the University of Stuttgart, Stuttgart, Germany,
-                      in 2019, and the Ph.D. degree from York University,
-                      Toronto, ON, Canada, in 2024.
-                      He is a Postdoctoral Fellow with the Earth and
-                      Space Science and Engineering Department, York
-                      University. His research interests currently focus
+  bio              : "Ding Yi received his Ph.D. degree from York University,
+                      Toronto, ON, Canada, in 2024.He is a Postdoctoral Fellow 
+                      with the Earth and Space Science and Engineering Department, 
+                      York University. His research interests currently focus
                       on enhancing vehicle navigation solutions with
                       advanced GNSS positioning techniques and low-cost
                       multisensor fusion."
@@ -54,12 +49,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/DingYiGNSS"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
