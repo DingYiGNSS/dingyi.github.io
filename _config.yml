@@ -12,9 +12,9 @@ title                    : "Dr. Ding Yi"
 title_separator          : "-"
 name                     : &name "Ding Yi"
 description              : &description "Ph.D., Postdoctoral Fellow in GNSS and Multisensor Navigation"
-url                      : https://dingyignss.github.io/dingyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dingyignss.github.io/dingyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://dingyignss.github.io/"
+repository               : "https://dingyignss.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -33,7 +33,7 @@ author:
                       multisensor fusion."
   location         : "Toronto"
   employer         : "York University"
-  uri              : "https://dingyignss.github.io/dingyi.github.io/"
+  uri              : "https://dingyignss.github.io/dingyi.github.io"
   email            : "yd8061150@outlook.com" 
 
   # Academic websites
