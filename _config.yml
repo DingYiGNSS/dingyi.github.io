@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-title                    : "Dr. Ding Yi"
+title                    : "Ding Yi | 易丁"
 title_separator          : "-"
 name                     : &name "Ding Yi"
 description              : &description "Ph.D., Postdoctoral Fellow in GNSS and Multisensor Navigation"
@@ -24,13 +24,7 @@ author:
   avatar           : "profile_DY.jpg"
   name             : "Ding Yi"
   #pronouns         : "Dr"  
-  bio              : "Ding Yi received his Ph.D. degree from York University,
-                      Toronto, ON, Canada, in 2024.He is a Postdoctoral Fellow 
-                      with the Earth and Space Science and Engineering Department, 
-                      York University. His research interests currently focus
-                      on enhancing vehicle navigation solutions with
-                      advanced GNSS positioning techniques and low-cost
-                      multisensor fusion."
+  bio              : "Postdoctoral Fellow at York University"
   location         : "Toronto"
   employer         : "York University"
   uri              : "https://dingyignss.github.io/dingyi.github.io"
