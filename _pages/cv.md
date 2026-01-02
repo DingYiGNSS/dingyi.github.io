@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-<div style="margin-left: 1.5em;">
-  Jun 2019 – Jun 2024 
-  **Lassonde School of Engineering, York University, Canada**  
-  *Ph.D., Department of Earth and Space Science and Engineering*  
-  Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, Prof. Spiros Pagiatakis  
 
-  Sep 2016 – Apr 2019 
-  **University of Stuttgart, Germany**  
-  *Master of Geomatics Engineering*  
-  Supervisor committee: Dr. Fabian De Ponte Müller, Dr. Aloysius Wehr  
-  Examiner: Prof. Thomas Hobiger  
+  > Jun 2019 – Jun 2024 
+  > **Lassonde School of Engineering, York University, Canada**  
+  > *Ph.D., Department of Earth and Space Science and Engineering*  
+  > Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, Prof. Spiros Pagiatakis  
 
-  Sep 2012 – Jun 2016  
-  **Wuhan University, China**  
-  *Bachelor of Geomatics Engineering*
-</div>
+  > Sep 2016 – Apr 2019 
+  > **University of Stuttgart, Germany**  
+  > *Master of Geomatics Engineering*  
+  > Supervisor committee: Dr. Fabian De Ponte Müller, Dr. Aloysius Wehr  
+  > Examiner: Prof. Thomas Hobiger  
+
+  > Sep 2012 – Jun 2016  
+  > **Wuhan University, China**  
+  > *Bachelor of Geomatics Engineering*
+
 ---
 
 Work Experience
