@@ -12,36 +12,36 @@ redirect_from:
 Education
 ======
 
-  > Jun 2019 – Jun 2024 
+  > Jun 2019 – Jun 2024
   > **Lassonde School of Engineering, York University, Canada**  
-  > *Ph.D., Department of Earth and Space Science and Engineering*  
+  > **Ph.D., Department of Earth and Space Science and Engineering**  
   > Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, Prof. Spiros Pagiatakis  
 
-  > Sep 2016 – Apr 2019 
+  > Sep 2016 – Apr 2019
   > **University of Stuttgart, Germany**  
-  > *Master of Geomatics Engineering*  
+  > **Master of Geomatics Engineering**
   > Supervisor committee: Dr. Fabian De Ponte Müller, Dr. Aloysius Wehr  
   > Examiner: Prof. Thomas Hobiger  
 
   > Sep 2012 – Jun 2016  
   > **Wuhan University, China**  
-  > *Bachelor of Geomatics Engineering*
+  > **Bachelor of Geomatics Engineering**
 
 ---
 
 Work Experience
-======
-  Jun 2019 – May 2024 
-  **Lassonde School of Engineering, York University, Canada**  
-  **Teaching Assistant**
+=====
+  > Jun 2019 – May 2024
+  > **Lassonde School of Engineering, York University, Canada**  
+  > **Teaching Assistant**
 
-  Jul 2024 – Sep 2024  
-  **Lassonde School of Engineering, York University, Canada**  
-  **Research Assistant**
+  > Jul 2024 – Sep 2024
+  > **Lassonde School of Engineering, York University, Canada**  
+  > **Research Assistant**
 
-  Oct 2024 – Jan 2026  
-  **Lassonde School of Engineering, York University, Canada**  
-  **Postdoctoral Fellow**
+  > Oct 2024 – Jan 2026
+  > **Lassonde School of Engineering, York University, Canada**  
+  > **Postdoctoral Fellow**
 
 ---
 
@@ -51,17 +51,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Honors
 ======
