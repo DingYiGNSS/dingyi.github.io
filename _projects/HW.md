@@ -1,10 +1,10 @@
 ---
 title: "York-Huawei Smartphone Collaboration Project"
 duration: 2021 – 2023  
-Role: GNSS Algorithm Developer / Project Lead
-Collaboration: York University × Huawei 
+role: GNSS Algorithm Developer / Project Lead
+collaboration: York University × Huawei 
 collection: projects
-excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
+description: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
 ---
 
 ### Project Overview
