@@ -1,7 +1,57 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "York-Huawei Smartphone Collaboration Project"
+excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
+duration: 2021 – 2023  
+Role: GNSS Algorithm Developer / Project Lead
+Collaboration: York University × Huawei 
+collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Project Overview
+This project focused on the **development and evaluation of advanced smartphone-based GNSS positioning algorithms** for realistic vehicle navigation scenarios. The primary objective was to design and implement **core RTK and PPP GNSS+IMU C++ processing software**, enabling high-accuracy positioning using low-cost smartphone sensors in challenging driving environments.
+
+An end-to-end framework covering algorithm development, field experimentation, and performance validation was established through close collaboration between **York University and Huawei**.
+
+---
+
+### Phase 1: RTK GNSS + IMU Algorithm Development
+- Developed **multi-GNSS (GPS, GLONASS, Galileo, BeiDou) single- and dual-frequency float RTK software** using a **Sequential Least Squares (SLS) estimator**.
+- Designed an **Extended Kalman Filter (EKF)** architecture supporting both **loosely coupled** and **tightly coupled RTK+IMU integration**.
+- Implemented robust measurement modeling and state propagation tailored to **smartphone-grade GNSS and IMU sensors**.
+
+---
+
+### Phase 2: Vehicle Field Testing and RTK+IMU Evaluation
+- Customized **pre-processing and post-processing modules** to accommodate smartphone-specific GNSS characteristics.
+- Organized and conducted **vehicle field tests** across diverse environments, including:
+  - Open-sky highways  
+  - Vegetation-covered roads  
+  - Moderate urban environments  
+  - Overpasses and complex road geometries
+- Evaluated positioning performance in **simulated real-time mode**, achieving acceptance criteria for:
+  - **95th and 68th percentile horizontal accuracy**
+  - **Positioning success rate**
+
+---
+
+### Phase 3: PPP GNSS + IMU Algorithm Development
+- Extended the RTK+IMU framework by integrating **Precise Point Positioning (PPP)** functionalities.
+- Developed **multi-GNSS single- and dual-frequency float PPP processing modules** with an **ionospheric-constrained strategy**.
+- Participated in the **2022 Google Smartphone Decimeter Challenge (GSDC)**, achieving a score of **2.485** using simulated real-time solutions.
+
+---
+
+### Phase 4: Vehicle Field Testing and PPP+IMU Evaluation
+- Enhanced traditional PPP solutions by incorporating **code-only satellites and measurements**.
+- Led large-scale **vehicle measurement campaigns** and validated PPP+IMU performance under realistic driving conditions.
+- Successfully met the same acceptance criteria as RTK+IMU testing for:
+  - Horizontal accuracy percentiles  
+  - Positioning robustness and reliability
+- Coordinated **York–Huawei technical meetings** and led the submission of final project deliverables.
+
+---
+
+### Key Outcomes
+- End-to-end **C++ GNSS+IMU processing software** for smartphone-based RTK and PPP applications.
+- Demonstrated **decimeter-level positioning performance** in realistic driving environments using low-cost sensors.
+- Provided a solid technical foundation for subsequent research on **smartphone PPP, Galileo HAS, and urban navigation**.
