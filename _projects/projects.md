@@ -1,10 +1,10 @@
 ---
 title: "York-Huawei Smartphone Collaboration Project"
-excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
 duration: 2021 – 2023  
 Role: GNSS Algorithm Developer / Project Lead
 Collaboration: York University × Huawei 
 collection: projects
+excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
 ---
 
 ### Project Overview
@@ -53,5 +53,5 @@ An end-to-end framework covering algorithm development, field experimentation, a
 
 ### Key Outcomes
 - End-to-end **C++ GNSS+IMU processing software** for smartphone-based RTK and PPP applications.
-- Demonstrated **decimeter-level positioning performance** in realistic driving environments using low-cost sensors.
-- Provided a solid technical foundation for subsequent research on **smartphone PPP, Galileo HAS, and urban navigation**.
+- Demonstrated **Accurate positioning performance (<1.5 m>)** in realistic driving environments using low-cost sensors.
+- Provided a solid technical foundation for subsequent research on **smartphone PPP, multi-sensor integration, and urban navigation**.
