@@ -4,11 +4,11 @@ duration: 2021 – 2023
 role: GNSS Algorithm Developer / Project Lead
 collaboration: York University × Huawei 
 collection: projects
-description: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
+excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
 ---
 
 ### Project Overview
-This project focused on the **development and evaluation of advanced smartphone-based GNSS positioning algorithms** for realistic vehicle navigation scenarios. The primary objective was to design and implement **core RTK and PPP GNSS+IMU C++ processing software**, enabling high-accuracy positioning using low-cost smartphone sensors in challenging driving environments.
+This project focused on the **development and evaluation of advanced smartphone-based GNSS positioning algorithms** for realistic vehicle navigation scenarios. The primary objective was to design and implement **core RTK and PPP GNSS+IMU C++ processing software, Jaqen**, enabling high-accuracy positioning using low-cost smartphone sensors in challenging driving environments.
 
 An end-to-end framework covering algorithm development, field experimentation, and performance validation was established through close collaboration between **York University and Huawei**.
 
