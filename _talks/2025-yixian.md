@@ -11,7 +11,7 @@ location: "Sun Yat-sen University, Online"
 <figure style="text-align: center;">
   <img src="yixian.jpg"
        alt="逸仙智绘论坛76期"
-       style="width: 60%; max-width: 600px;">
+       style="width: 35%; max-width: 600px;">
   <figcaption>
     <em>逸仙智绘论坛76期</em>
   </figcaption>

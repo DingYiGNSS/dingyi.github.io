@@ -22,6 +22,7 @@ location: "ION online"
 🔗 WEBINAR page:  
 [Webinar](https://www.ion.org/publications/webinar-bisnath.cfm)
 
+▶️  WEBINAR Recording (Youtube):  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5em 0;">
   <iframe
     src="https://www.youtube.com/embed/4JWQmbBWVOw?start=443"
@@ -29,6 +30,6 @@ location: "ION online"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    style="position: absolute; top: 0; left: 0; width: 60%; height: 60%;">
   </iframe>
 </div>
