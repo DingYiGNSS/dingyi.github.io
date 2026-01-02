@@ -9,60 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
 ======
-  **Jun 2019 – Jun 2024**  
+<div style="margin-left: 1.5em;">
+  Jun 2019 – Jun 2024 
   **Lassonde School of Engineering, York University, Canada**  
   *Ph.D., Department of Earth and Space Science and Engineering*  
   Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, Prof. Spiros Pagiatakis  
 
-  **Sep 2016 – Apr 2019**  
+  Sep 2016 – Apr 2019 
   **University of Stuttgart, Germany**  
   *Master of Geomatics Engineering*  
   Supervisor committee: Dr. Fabian De Ponte Müller, Dr. Aloysius Wehr  
   Examiner: Prof. Thomas Hobiger  
 
-  **Sep 2012 – Jun 2016**  
+  Sep 2012 – Jun 2016  
   **Wuhan University, China**  
   *Bachelor of Geomatics Engineering*
-
+</div>
 ---
 
-## Work Experience
+Work Experience
 ======
-  **Jun 2019 – May 2024**  
+  Jun 2019 – May 2024 
   **Lassonde School of Engineering, York University, Canada**  
-  *Teaching Assistant*
+  **Teaching Assistant**
 
-  **Jul 2024 – Sep 2024**  
+  Jul 2024 – Sep 2024  
   **Lassonde School of Engineering, York University, Canada**  
-  *Research Assistant*
+  **Research Assistant**
 
-  **Oct 2024 – Jan 2026**  
+  Oct 2024 – Jan 2026  
   **Lassonde School of Engineering, York University, Canada**  
-  *Postdoctoral Fellow*
+  **Postdoctoral Fellow**
 
 ---
 
-## Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-## Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Honors
+Honors
 ======
   * Editorial Board Member of the *Journal of Global Positioning Systems (JoGPS)*
   * Reviewer for *GPS Solutions*, *Advances in Space Research*, *NAVIGATION: Journal of the Institute of Navigation*, etc.
