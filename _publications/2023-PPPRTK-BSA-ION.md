@@ -13,7 +13,7 @@ link_text: "ION"
 
 <figure style="text-align: center;">
   <img src="flowchart.png"
-       alt="Processing architecture for smartphone hybrid RTK and PPP engine"
+       alt="Processing architecture for hybrid engine"
        style="width: 60%; max-width: 600px;">
   <figcaption>
     <em>Processing architecture for smartphone hybrid RTK and PPP engine</em>

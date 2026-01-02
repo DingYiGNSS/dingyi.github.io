@@ -42,7 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p> Published in
-            <i>{{ post.venue }}</i> ({{ post.date | date: "%Y" }})
+             <strong><i>{{ post.venue }}</i></strong> ({{ post.date | date: "%Y" }})
             {% if post.rank %}
               <span style="margin-left: 0.5em; font-weight: 600;">
                 —  {{ post.rank }}
