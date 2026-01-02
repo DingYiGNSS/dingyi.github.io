@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  **Jun 2019 – Jun 2024**  
+  **Lassonde School of Engineering, York University, Canada**  
+  *Ph.D., Department of Earth and Space Science and Engineering*  
+  Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, Prof. Spiros Pagiatakis  
 
-Work experience
+  **Sep 2016 – Apr 2019**  
+  **University of Stuttgart, Germany**  
+  *Master of Geomatics Engineering*  
+  Supervisor committee: Dr. Fabian De Ponte Müller, Dr. Aloysius Wehr  
+  Examiner: Prof. Thomas Hobiger  
+
+  **Sep 2012 – Jun 2016**  
+  **Wuhan University, China**  
+  *Bachelor of Geomatics Engineering*
+
+---
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  **Jun 2019 – May 2024**  
+  **Lassonde School of Engineering, York University, Canada**  
+  *Teaching Assistant*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  **Jul 2024 – Sep 2024**  
+  **Lassonde School of Engineering, York University, Canada**  
+  *Research Assistant*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  **Oct 2024 – Jan 2026**  
+  **Lassonde School of Engineering, York University, Canada**  
+  *Postdoctoral Fellow*
+
+---
 
 Publications
 ======
@@ -59,6 +62,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors
 ======
-* Currently signed in to 43 different slack teams
+  * **2023** — Institute of Navigation (ION) Conference **Student Paper Award Winner**
+  * **2024** — Reviewer for *GPS Solutions*
+  * **2024** — Member, International Association of Geodesy (IAG) Working Groups **4.2** and **4.4.3**
+
+---
